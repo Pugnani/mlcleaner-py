@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+mlcleaner/__init__.py
+mlcleaner/core.py
+mlcleaner/preprocess.py
+mlcleaner/report.py
+mlcleaner.egg-info/PKG-INFO
+mlcleaner.egg-info/SOURCES.txt
+mlcleaner.egg-info/dependency_links.txt
+mlcleaner.egg-info/requires.txt
+mlcleaner.egg-info/top_level.txt
+tests/test_core.py
