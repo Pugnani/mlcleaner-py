@@ -47,6 +47,7 @@ Run all tests using pytest:
 pytest
 
 All core functions are fully tested to ensure stability and correctness.
+
 **📄 License**
 
 This project is licensed under the MIT License — see the LICENSE
